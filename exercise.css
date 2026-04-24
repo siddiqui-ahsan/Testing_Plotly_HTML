@@ -1,0 +1,10 @@
+
+/* Or if it's just an h1/h2/h3 with specific text, you might need to target the parent */
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: purple;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
